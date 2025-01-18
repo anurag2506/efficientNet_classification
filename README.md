@@ -25,6 +25,6 @@ pip install -r requirements.txt
 <h5> Run the streamlit locally on your browser</h5>
 
 ```bash
-streamlit run yolo.py
+streamlit run str.py
 ```
 
