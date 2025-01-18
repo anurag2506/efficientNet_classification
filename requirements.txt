@@ -1,0 +1,5 @@
+streamlit
+huggingface_hub
+torch
+torchvision
+matplotlib
