@@ -16,7 +16,7 @@ git clone "https://github.com/anurag2506/efficientNet_classification"
 cd efficientNet_classification
 ```
 
-<h5> Install the specific dependencies</h5>
+<h5> Install the specific dependencies(specific to running the main script)</h5>
 
 ```bash
 pip install -r requirements.txt
